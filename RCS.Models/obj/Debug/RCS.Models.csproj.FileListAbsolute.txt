@@ -1,0 +1,7 @@
+C:\Users\vantr\source\repos\RollCallSystem\RCS.Models\obj\Debug\RCS.Models.csproj.CoreCompileInputs.cache
+C:\Users\vantr\source\repos\RollCallSystem\RCS.Models\bin\Debug\RCS.Models.dll.config
+C:\Users\vantr\source\repos\RollCallSystem\RCS.Models\bin\Debug\RCS.Models.dll
+C:\Users\vantr\source\repos\RollCallSystem\RCS.Models\bin\Debug\RCS.Models.pdb
+C:\Users\vantr\source\repos\RollCallSystem\RCS.Models\obj\Debug\RCS.Models.dll
+C:\Users\vantr\source\repos\RollCallSystem\RCS.Models\obj\Debug\RCS.Models.pdb
+C:\Users\vantr\source\repos\RollCallSystem\RCS.Models\obj\Debug\RCS.Models.csprojAssemblyReference.cache

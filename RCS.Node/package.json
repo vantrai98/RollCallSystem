@@ -1,0 +1,25 @@
+{
+  "name": "rcsnode",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-react": "^7.9.4",
+    "glob": "^7.1.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-shell-plugin": "^0.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1"
+  },
+  "scripts": {
+    "dev": "webpack --mode development",
+    "product": "webpack --mode production"
+  }
+}

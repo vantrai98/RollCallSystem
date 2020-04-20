@@ -1,0 +1,12 @@
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\obj\Debug\RCS.POCO.csproj.CoreCompileInputs.cache
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\bin\Debug\RCS.POCO.dll.config
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\bin\Debug\RCS.POCO.dll
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\bin\Debug\RCS.POCO.pdb
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\bin\Debug\EntityFramework.dll
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\bin\Debug\EntityFramework.xml
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\obj\Debug\RCS.POCO.csproj.CopyComplete
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\obj\Debug\RCS.POCO.dll
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\obj\Debug\RCS.POCO.pdb
+C:\Users\vantr\source\repos\RollCallSystem\RCS.POCO\obj\Debug\RCS.POCO.csprojAssemblyReference.cache

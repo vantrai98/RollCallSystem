@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:52078/RCSService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/RCS.POCO" />
+  <xs:element name="Test">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TestResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/RCS.POCO" minOccurs="0" name="TestResult" nillable="true" type="q1:Test" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

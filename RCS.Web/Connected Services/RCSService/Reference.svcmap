@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e1a6312f-7ffa-407c-8bb5-cc7c4f036d6d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52078/RCSService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RCSService.xsd" MetadataType="Schema" ID="8be256e9-73f5-422d-a308-58d70878f819" SourceId="1" SourceUrl="http://localhost:52078/RCSService.svc?xsd=xsd0" />
+    <MetadataFile FileName="RCSService1.xsd" MetadataType="Schema" ID="b7e29ee6-af61-45d9-8798-9c613ccc138c" SourceId="1" SourceUrl="http://localhost:52078/RCSService.svc?xsd=xsd2" />
+    <MetadataFile FileName="RCSService.disco" MetadataType="Disco" ID="a4521627-a135-4a56-9fe7-848cc0267aed" SourceId="1" SourceUrl="http://localhost:52078/RCSService.svc?disco" />
+    <MetadataFile FileName="RCSService.wsdl" MetadataType="Wsdl" ID="90986a2c-3ee8-4bfa-a129-c364900337c5" SourceId="1" SourceUrl="http://localhost:52078/RCSService.svc?wsdl" />
+    <MetadataFile FileName="RCSService2.xsd" MetadataType="Schema" ID="0fcb491f-d0b3-4f1c-a339-d89bbabb5948" SourceId="1" SourceUrl="http://localhost:52078/RCSService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,11 @@
+﻿@model RCS.POCO.Test
+@{
+    ViewBag.Title = "Test";
+}
+
+<div id="root"></div>
+@Scripts.Render("~/dist/Scripts/index")
+<script>
+    window.renderPage(document.getElementById("root"));
+</script>
+
